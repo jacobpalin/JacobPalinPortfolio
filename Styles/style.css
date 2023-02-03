@@ -54,8 +54,8 @@
    }
 
    #content .about img {
-    padding-bottom: 20px;
-    padding-top: 20px;
+       padding-bottom: 20px;
+       padding-top: 20px;
    }
 
    #content .contactSection {
@@ -119,3 +119,5 @@
    #Contact p {
        text-align: center;
    }
+
+   
