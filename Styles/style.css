@@ -1,0 +1,121 @@
+   #content {
+       background-color: #303030;
+   }
+
+   #content p {
+       font-size: 20px;
+       margin: 0 10%;
+       font-family: Arial, Helvetica, sans-serif;
+       color: #E3E3E3;
+       text-align: justify;
+       padding-bottom: 20px;
+       padding-top: 20px;
+   }
+
+   #content h2 {
+       text-align: center;
+       background-color: #181818;
+       font-size: 40px;
+       font-family: Arial, Helvetica, sans-serif;
+       color: #E3E3E3;
+       padding: 10px 0;
+       margin: 0;
+   }
+
+   #content h1 {
+       background-color: #212f5c;
+       font-size: 30px;
+       padding: 0;
+       margin: 0;
+       position: fixed;
+       font-family: Arial, Helvetica, sans-serif;
+       color: #E3E3E3;
+       text-align: left;
+   }
+
+   #content a {
+       font-family: Arial, Helvetica, sans-serif;
+       color: #E3E3E3;
+   }
+
+   .centerPicture {
+       display: block;
+       margin: auto;
+   }
+
+   #content .about {
+       background-color: #4C78A4;
+   }
+
+   #content .about p {
+       text-align: justify;
+       padding-bottom: 20px;
+       padding-top: 20px;
+   }
+
+   #content .about img {
+    padding-bottom: 20px;
+    padding-top: 20px;
+   }
+
+   #content .contactSection {
+       background-color: #4C78A4;
+       padding-bottom: 20px;
+   }
+
+   .portrait {
+       height: 342px;
+       width: 250px;
+   }
+
+   .menuIcon {
+       height: 24px;
+       width: 36px;
+   }
+
+   a:hover {
+       background-color: #4C78A4;
+   }
+
+   .dropdown {
+       display: none
+   }
+
+   .navbar-tags:hover>.dropdown {
+       display: block;
+       color: #4C78A4;
+       text-decoration: none;
+   }
+
+   .navbar-list a {
+       font-family: Arial, Helvetica, sans-serif;
+       color: #E3E3E3;
+       text-decoration: none;
+       text-align: left;
+       margin-right: 35px;
+       padding: 0;
+   }
+
+   .navbar-list ul,
+   li {
+       text-align: left;
+       margin-right: 0px;
+       padding: 0;
+   }
+
+   .navbar-tags {
+       margin: 0;
+       padding: 0;
+       list-style-type: none;
+       text-align: center;
+   }
+
+   .dropdown {
+       padding: 0;
+       margin: 0px;
+       list-style-type: none;
+   }
+
+   #Contact p {
+       text-align: center;
+   }
