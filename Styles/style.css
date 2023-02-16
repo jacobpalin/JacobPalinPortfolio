@@ -30,7 +30,6 @@
 
    h1, h2, h3 {
        text-align: center;
-       background-color: #181818;
        font-family: Arial, Helvetica, sans-serif;
        padding: 25px 0;
        border-radius: 4px;
@@ -67,23 +66,29 @@
       color: #E3E3E3;
       border-radius: 4px;
       margin: 10px 0;
-   }
+   } #About > h1{
+       background-color: #181818;
+
+}
 #Projects1{
       background-color: #4C78A4;
       padding: 20px;
       color: #E3E3E3;
       border-radius: 4px;
       margin: 10px 0;
-
-   } 
+   } #Projects1 > h2{
+       background-color: #303030;
+}
 #Projects2{
       background-color: #4C78A4;
       padding: 20px;
       color: #E3E3E3;
       border-radius: 4px;
       margin: 10px 0;
+   } #Projects1 > h2{
+       background-color: #303030;
+}
 
-   }
 #Contact {
       background-color: #4C78A4;
       padding: 20px;
@@ -91,7 +96,9 @@
       border-radius: 4px;
       margin: 10px 0;
 
-   }
+   } #Contact > h2{
+       background-color: #181818;
+}
 
    .portrait {
        height: 342px;
