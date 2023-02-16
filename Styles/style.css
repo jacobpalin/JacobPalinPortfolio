@@ -61,7 +61,25 @@
        padding-top: 20px;
    }
 
-   #About, #Projects1 #Projects2, #Contact {
+   #About{
+      background-color: #4C78A4;
+      padding: 20px;
+      color: #E3E3E3;
+      border-radius: 4px;
+   }
+#Projects1{
+      background-color: #4C78A4;
+      padding: 20px;
+      color: #E3E3E3;
+      border-radius: 4px;
+   } 
+#Projects2{
+      background-color: #4C78A4;
+      padding: 20px;
+      color: #E3E3E3;
+      border-radius: 4px;
+   }
+#Contact {
       background-color: #4C78A4;
       padding: 20px;
       color: #E3E3E3;
