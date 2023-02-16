@@ -28,10 +28,18 @@
        padding-top: 20px;
    }
 
-   #content h1 {
+   h1, h2 {
        text-align: center;
        background-color: #181818;
        font-size: 40px;
+       font-family: Arial, Helvetica, sans-serif;
+       color: #E3E3E3;
+       padding: 10px 0;
+   }  
+h3 {
+       text-align: center;
+       background-color: #181818;
+       font-size: 25px;
        font-family: Arial, Helvetica, sans-serif;
        color: #E3E3E3;
        padding: 10px 0;
