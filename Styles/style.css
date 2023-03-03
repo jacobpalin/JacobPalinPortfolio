@@ -76,9 +76,22 @@
    }
 
    #About>h1 {
-       background-color: #181818;
+       background-color: #345d86;
 
    }
+
+   #MainProject {
+    background-color: #181818;
+    padding: 20px 0;
+    color: #E3E3E3;
+    border-radius: 4px;
+    margin: 10px 0;
+}
+
+#MainProject>h2 {
+    background-color: #303030;
+    margin: 0 20px;
+}
 
    #Projects1 {
        background-color: #181818;
@@ -120,12 +133,14 @@
    }
 
    #Contact>h2 {
-       background-color: #181818;
+       background-color: #345d86;
    }
 
    .portrait {
        height: 342px;
        width: 250px;
+       border-radius: 5%;
+       box-shadow: 10px 10px 5px #303030;
    }
 
    #Contact p {
